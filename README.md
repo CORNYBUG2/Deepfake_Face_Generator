@@ -17,8 +17,8 @@ A generative model trained to create realistic human faces from random noise usi
 
 Generated faces after training (Epoch 50):
 
-![Sample Face 1](https://raw.githubusercontent.com/CORNYBUG2/Deepfake_Face_Generator/main/samples/fake_face_1.png)  
-![Sample Face 2](https://raw.githubusercontent.com/CORNYBUG2/Deepfake_Face_Generator/main/samples/fake_face_2.png)
+![Sample Face 1](https://github.com/CORNYBUG2/Deepfake_Face_Generator/blob/cf0eb54c36bd081946a3e6f3be7e22b96d64370b/Samples/image2.png)  
+![Sample Face 2](https://github.com/CORNYBUG2/Deepfake_Face_Generator/blob/cf0eb54c36bd081946a3e6f3be7e22b96d64370b/Samples/image1.png)
 
 ---
 
