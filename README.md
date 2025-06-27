@@ -1,10 +1,46 @@
-# GEN-NY
+# 🧪 Deepfake Face Generator (DCGAN + TensorFlow)
 
-This is my 4th semester AI project. It is a deepfake face generator model, build using tensorflow. 
-The model was trained on the subset of CelebA dataset, you can find the dataset link [here](https://www.kaggle.com/datasets/farzadnekouei/50k-celebrity-faces-image-dataset). 
+A generative model trained to create realistic human faces from random noise using the Deep Convolutional GAN (DCGAN) architecture. This project approaches Generative AI like real engineering — from training to deployment-readiness.
 
-The model was saved in H5 format, after training for smooth deployement.
+---
 
-I've uploaded all the files neccesary, the model, notebooks and the flask app.
+## 🧠 What It Does
 
-Hope you like the project :D
+- Generates synthetic human face images from random noise
+- Trained using a Deep Convolutional GAN (DCGAN) in TensorFlow
+- Produces `.png` images that resemble real human faces
+- Saves model weights and generated images across training
+
+---
+
+## 🚀 Project Highlights
+
+- ✅ TensorFlow-based DCGAN implementation
+- ✅ Compact generator model: **~19MB**
+- ✅ Tracked all training experiments using **MLflow**
+- ✅ Automatically saves output samples after each epoch
+- ✅ Optimized for training on both CPU and GPU
+- ✅ Ready for integration with FastAPI/Streamlit/Gradio for serving
+
+---
+
+## 🌍 Dataset
+
+- Trained on the **50K Celebrity Faces Image Dataset** from Kaggle  
+- Dataset source: [CelebFaces Kaggle Dataset](https://www.kaggle.com/datasets/farzadnekouei/50k-celebrity-faces-image-dataset)
+
+---
+
+
+## 🛠️ Tech Stack
+
+- Python
+- TensorFlow / Keras
+- MLflow
+- NumPy
+- OpenCV
+- Matplotlib
+
+---
+
+
