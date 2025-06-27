@@ -13,6 +13,15 @@ A generative model trained to create realistic human faces from random noise usi
 
 ---
 
+## 🖼️ Sample Outputs
+
+Generated faces after training (Epoch 50):
+
+![Sample Face 1](https://raw.githubusercontent.com/CORNYBUG2/Deepfake_Face_Generator/main/samples/fake_face_1.png)  
+![Sample Face 2](https://raw.githubusercontent.com/CORNYBUG2/Deepfake_Face_Generator/main/samples/fake_face_2.png)
+
+---
+
 ## 🚀 Project Highlights
 
 - ✅ TensorFlow-based DCGAN implementation
